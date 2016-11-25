@@ -3840,13 +3840,19 @@
     font-weight: 300;
 }
 
-@media only screen and (min-width: 480px) {
+@media only screen and (min-width: 1082px) {
 	.navbar {
 		display: none;
 	}
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width: 1082px) {
+	.navbar {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1082px) {
   .navbar {
     padding: 10px 0px 0px 0px;
       background-color: #273038;
@@ -3882,6 +3888,5 @@
 .dropdown:hover .dropdown-content {
     display: block;
 	}
-
 
 }
