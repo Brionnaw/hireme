@@ -3333,7 +3333,7 @@
 					font-size: 0.9em;
 				}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 1078px) {
 
 			#nav {
 				display: none;
