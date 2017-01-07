@@ -3855,7 +3855,7 @@
 @media only screen and (max-width: 1082px) {
   .navbar {
     padding: 10px 0px 0px 0px;
-      background-color: #273038;
+      background-color: #b5a9d6;
 		}
 }
 .navbar-fixed-top {
@@ -3864,7 +3864,7 @@
 }
 
 .navbar-default .navbar-brand {
-  color: #b5a9d6;
+  color: white;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -3872,7 +3872,7 @@
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: #b5a9d6;
+  color: white;
 }
 .dropdown {
     position: relative;
@@ -3881,7 +3881,7 @@
 
 .dropdown-content {
     display: none;
-    background-color: #273038;
+    background-color: #b5a9d6;
     padding: 12px 16px;
 }
 
